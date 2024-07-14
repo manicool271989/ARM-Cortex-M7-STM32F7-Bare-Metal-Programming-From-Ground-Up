@@ -1,0 +1,2 @@
+../Src/adc.c:17:6:pa4_adc_init	1
+../Src/adc.c:45:10:adc_get_data	2

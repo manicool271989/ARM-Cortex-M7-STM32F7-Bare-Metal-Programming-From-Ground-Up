@@ -1,0 +1,10 @@
+../Src/uart.c:22:6:uart_write	16	static
+../Src/uart.c:32:9:uart_read	16	static
+../Src/uart.c:41:5:__io_putchar	16	static
+../Src/uart.c:46:13:uart_enable	16	static
+../Src/uart.c:51:13:set_uart_transfer_direction	16	static
+../Src/uart.c:56:17:compute_uart_div	16	static
+../Src/uart.c:61:13:uart_set_baudrate	24	static
+../Src/uart.c:66:13:config_uart_parameters	24	static
+../Src/uart.c:72:6:uart3_tx_init	8	static
+../Src/uart.c:103:6:uart3_rxtx_init	8	static
