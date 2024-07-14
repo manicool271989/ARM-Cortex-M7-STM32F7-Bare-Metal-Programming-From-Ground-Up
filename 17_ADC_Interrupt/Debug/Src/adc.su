@@ -1,0 +1,4 @@
+C:/Users/subra/Documents/udemy/ARM Cortex-M7 STM32F7 Bare-Metal Programming From Ground Up/STM32 Workspace/chip_headers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Src/adc.c:19:6:pa4_adc_init	4	static
+../Src/adc.c:47:6:pa4_adc_interrupt_init	8	static
+../Src/adc.c:82:10:adc_get_data	4	static
