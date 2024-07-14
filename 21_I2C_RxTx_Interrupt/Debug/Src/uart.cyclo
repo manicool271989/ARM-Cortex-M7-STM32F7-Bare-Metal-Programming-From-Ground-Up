@@ -1,0 +1,12 @@
+C:/Users/subra/Documents/udemy/ARM Cortex-M7 STM32F7 Bare-Metal Programming From Ground Up/STM32 Workspace/chip_headers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	2
+../Src/uart.c:24:6:uart_write	2
+../Src/uart.c:34:9:uart_read	2
+../Src/uart.c:43:5:__io_putchar	1
+../Src/uart.c:48:13:uart_enable	1
+../Src/uart.c:53:13:set_uart_transfer_direction	1
+../Src/uart.c:58:17:compute_uart_div	1
+../Src/uart.c:63:13:uart_set_baudrate	1
+../Src/uart.c:68:13:config_uart_parameters	1
+../Src/uart.c:74:6:uart3_rx_interrupt_init	1
+../Src/uart.c:119:6:uart3_tx_init	1
+../Src/uart.c:150:6:uart3_rxtx_init	1

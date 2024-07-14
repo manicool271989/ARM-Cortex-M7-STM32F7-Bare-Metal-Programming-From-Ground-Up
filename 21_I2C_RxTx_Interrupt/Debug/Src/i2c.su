@@ -1,0 +1,5 @@
+C:/Users/subra/Documents/udemy/ARM Cortex-M7 STM32F7 Bare-Metal Programming From Ground Up/STM32 Workspace/chip_headers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Src/i2c.c:18:6:i2c2_slave_config	8	static
+../Src/i2c.c:90:13:i2c2_setOwnAddress1	16	static
+../Src/i2c.c:96:6:i2c1_master_config	8	static
+../Src/i2c.c:155:10:i2c2_get_address_matchcode	4	static

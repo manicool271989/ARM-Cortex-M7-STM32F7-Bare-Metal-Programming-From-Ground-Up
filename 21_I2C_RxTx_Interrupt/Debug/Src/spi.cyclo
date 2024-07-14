@@ -1,0 +1,5 @@
+C:/Users/subra/Documents/udemy/ARM Cortex-M7 STM32F7 Bare-Metal Programming From Ground Up/STM32 Workspace/chip_headers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	2
+../Src/spi.c:15:6:spi1_config	1
+../Src/spi.c:100:6:spi3_config	1
+../Src/spi.c:187:6:spi1_activate	1
+../Src/spi.c:193:6:spi3_activate	1
